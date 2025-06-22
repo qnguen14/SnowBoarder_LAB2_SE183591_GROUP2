@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: c07f31f9140f1724ebe0fceeeee529da
+guid: 3397b84f25d155142ae4cfd946f846db
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8793156133735815972
-    second: coin25_0
+      213: -5332178865306535845
+    second: kindpng_3429827_0
+  - first:
+      213: 639345032707626744
+    second: kindpng_3429827_1
+  - first:
+      213: 1465170110017778695
+    second: kindpng_3429827_2
+  - first:
+      213: -425275247860175007
+    second: kindpng_3429827_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: coin25_0
+      name: kindpng_3429827_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 23
-        width: 131
-        height: 151
+        x: 210
+        y: 239
+        width: 192
+        height: 222
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42bdedd5ae0970a70800000000000000
-      internalID: 8793156133735815972
+      spriteID: b58fe86b29b4006b0800000000000000
+      internalID: -5332178865306535845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kindpng_3429827_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6d27b7be86fd800800000000000000
+      internalID: 639345032707626744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kindpng_3429827_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 192
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7043127c374555410800000000000000
+      internalID: 1465170110017778695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kindpng_3429827_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 191
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f278f4a6e191af0800000000000000
+      internalID: -425275247860175007
       vertices: []
       indices: 
       edges: []
@@ -147,8 +222,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      coin25_0: 8793156133735815972
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

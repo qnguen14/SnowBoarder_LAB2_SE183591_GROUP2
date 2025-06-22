@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c07f31f9140f1724ebe0fceeeee529da
+guid: be14714d52bf70441a58b9f83cce1ff7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8793156133735815972
-    second: coin25_0
+      213: -546036216928523414
+    second: justin-r-snow-animation1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: coin25_0
+      name: justin-r-snow-animation1_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 23
-        width: 131
-        height: 151
+        x: 0
+        y: 0
+        width: 960
+        height: 640
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42bdedd5ae0970a70800000000000000
-      internalID: 8793156133735815972
+      spriteID: a6b2a7724f61c68f0800000000000000
+      internalID: -546036216928523414
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      coin25_0: 8793156133735815972
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

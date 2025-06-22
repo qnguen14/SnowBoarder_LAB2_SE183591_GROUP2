@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: c07f31f9140f1724ebe0fceeeee529da
+guid: d0106c77d3326f24d84428ace7e1a47c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8793156133735815972
-    second: coin25_0
+      213: 5461018242559903703
+    second: 52-521775_close-button-close-button-red-transparent_0
+  - first:
+      213: -4231595939040772216
+    second: 52-521775_close-button-close-button-red-transparent_1
+  - first:
+      213: -6043407247253872980
+    second: 52-521775_close-button-close-button-red-transparent_2
+  - first:
+      213: 8294592839182313945
+    second: 52-521775_close-button-close-button-red-transparent_3
+  - first:
+      213: 5557382502374223539
+    second: 52-521775_close-button-close-button-red-transparent_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: coin25_0
+      name: 52-521775_close-button-close-button-red-transparent_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 23
-        width: 131
-        height: 151
+        x: 0
+        y: 1099
+        width: 201
+        height: 201
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +140,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42bdedd5ae0970a70800000000000000
-      internalID: 8793156133735815972
+      spriteID: 7d706bb682f69cb40800000000000000
+      internalID: 5461018242559903703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-521775_close-button-close-button-red-transparent_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 199
+        width: 902
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f3d74d9e95645c0800000000000000
+      internalID: -4231595939040772216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-521775_close-button-close-button-red-transparent_2
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1099
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae5962c021812ca0800000000000000
+      internalID: -6043407247253872980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-521775_close-button-close-button-red-transparent_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9e5f79d305c1370800000000000000
+      internalID: 8294592839182313945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-521775_close-button-close-button-red-transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 0
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beacfe01f9cf1d40800000000000000
+      internalID: 5557382502374223539
       vertices: []
       indices: 
       edges: []
@@ -147,8 +247,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      coin25_0: 8793156133735815972
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

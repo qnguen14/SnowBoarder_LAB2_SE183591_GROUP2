@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c07f31f9140f1724ebe0fceeeee529da
+guid: e60f79137209b794ebca679bf59b1faf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8793156133735815972
-    second: coin25_0
+      213: 5973989424818232797
+    second: 9sprite_8bit_circle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: coin25_0
+      name: 9sprite_8bit_circle_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 23
-        width: 131
-        height: 151
+        x: 0
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 125, y: 125, z: 125, w: 125}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42bdedd5ae0970a70800000000000000
-      internalID: 8793156133735815972
+      spriteID: ddd1b36fabfd7e250800000000000000
+      internalID: 5973989424818232797
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 24628684c5734e9408e390eb8ad68cd6
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      coin25_0: 8793156133735815972
+      9sprite_8bit_circle_0: 5973989424818232797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
